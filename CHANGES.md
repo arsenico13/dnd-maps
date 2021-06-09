@@ -3,7 +3,8 @@
 ## 1.0.0 (2021-06-09)
 ------------------
 
-- NEW: Map City of Phlan
+- NEW: Map "City of Phlan"
+- NEW: Map "Path through the woods"
 - License setup
 
 

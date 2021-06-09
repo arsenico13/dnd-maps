@@ -34,9 +34,16 @@ Nelle mappe create con Dungeondraft, ho usato le risorse di
 
 ## Maps List
 
+### Path through the woods
+
+- [Path through the woods](random/path-through-the-woods). A simple road through
+  some trees.
+
+
 ### Phlan
 
 - [City of Phlan](maps/city-phlan), also known as the Jewel of the Moonsea.
+
 
 
 ---
