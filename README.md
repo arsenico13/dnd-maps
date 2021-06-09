@@ -2,7 +2,9 @@
 
 > ENG - for [ITA](#mappe-dnd) see below
 
-A collection of maps created by me.
+A collection of maps created by me. If you find some useful stuff that you decide
+to use, I'd like to know :)
+
 
 Here you can find:
 
@@ -17,7 +19,9 @@ In the maps created with Dundeondraft I used the mapmaking assets from
 
 # mappe-dnd
 
-Una collezione di mappe create da me.
+Una collezione di mappe create da me. Se per caso una qualche risorsa ti torna
+utile e decidi di usarla, mi farebbe piacere saperlo :)
+
 
 Qui potete trovare:
 
