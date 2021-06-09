@@ -1,0 +1,10 @@
+*.html
+.DS_Store
+*.pdf
+
+
+# Virtualenv
+bin/
+include/
+lib/
+.Python
