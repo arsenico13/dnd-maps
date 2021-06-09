@@ -49,7 +49,7 @@ Nelle mappe create con Dungeondraft, ho usato le risorse di
 
 ### Phlan
 
-- [City of Phlan](maps/city-phlan), also known as the Jewel of the Moonsea.
+- [City of Phlan](maps/random/city-phlan), also known as the Jewel of the Moonsea.
   Hand drawn by me. Versions in ENG + ITA.
 
 
