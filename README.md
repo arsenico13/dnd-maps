@@ -30,6 +30,13 @@ caso vi serva.
 Nelle mappe create con Dungeondraft, ho usato le risorse di
 [Forgotten Adventures](https://www.forgotten-adventures.net/).
 
+
+## Key / Legenda
+
+- **DD**: Dungeondraft
+- **FA**: Forgotten Adventures
+- **MT**: MapTool
+
 ---
 
 ## Maps List
@@ -37,12 +44,13 @@ Nelle mappe create con Dungeondraft, ho usato le risorse di
 ### Path through the woods
 
 - [Path through the woods](random/path-through-the-woods). A simple road through
-  some trees.
+  some trees. [DD,FA].
 
 
 ### Phlan
 
 - [City of Phlan](maps/city-phlan), also known as the Jewel of the Moonsea.
+  Hand drawn by me. Versions in ENG + ITA.
 
 
 
