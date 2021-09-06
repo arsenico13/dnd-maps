@@ -7,18 +7,20 @@ Copyright © 2021 Arsenico13.
 
 ---
 
-ENG:
-"House in the woods" is a 10x13 squares map.
+### ENG
 
-All maps here are exported at a scale of 300 pixels per square (3000x3900 pixels).
+"House in the woods" is a `10x13` squares map.
 
-If need to use this with a VTT with squares at 70 pixels (for 5′ squares), resize it to 700x910 pixels.
+All maps in this bundle are exported at a scale of 300 pixels per square (3000x3900 pixels).
+
+__If need to use this with a VTT with squares at 70 pixels (for 5′ squares), resize it to 700x910 pixels.__
 
 ---
 
-ITA:
-"House in the woods" è una mappa con griglia da 10x13 celle.
+### ITA
 
-Tutte le mappe qui presenti sono esportate ad una scala di 300 pixel per cella (3000x3900).
+"House in the woods" è una mappa con griglia da `10x13` celle.
 
-Per usare una di queste mappe in un VTT con celle da 70 pixel l'una, ridimensiona l'immagine a 700x910 pixel.
+Tutte le mappe di questo bundle sono esportate ad una scala di 300 pixel per cella (per un totale di 3000x3900 pixel).
+
+__Per usare una di queste mappe in un VTT con celle da 70 pixel l'una, ridimensiona l'immagine a 700x910 pixel.__
