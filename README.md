@@ -45,6 +45,12 @@ Nelle mappe create con Dungeondraft, ho usato le risorse di
 
 ## Maps List
 
+### House in the woods
+
+- [House in the woods](maps/buildings/house-in-the-woods). A small and simple
+  house in the woods. [DD,FA].
+
+
 ### Path through the woods
 
 - [Path through the woods](maps/random/path-through-the-woods). A simple road
