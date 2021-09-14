@@ -49,6 +49,7 @@ Nelle mappe create con Dungeondraft, ho usato le risorse di
 
 - [House in the woods](maps/buildings/house-in-the-woods). A small and simple
   house in the woods. [DD,FA].
+- [Kalimeta Temple](maps/buildings/kalimeta-temple). A very simple temple with columns and an altar. [DD, FA, MT]
 
 
 ### Path through the woods
