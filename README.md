@@ -6,6 +6,9 @@ A collection of maps created by me. If you find some useful stuff that you decid
 to use, I'd like to know :)
 
 
+Go to the [map list](#maps-list).
+
+
 Here you can find:
 
 - hand drawn maps
